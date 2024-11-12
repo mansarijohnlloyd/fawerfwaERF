@@ -1,0 +1,12 @@
+{
+    "students": [
+        { "id": "S001", "name": "John Doe", "age": 21 },
+        { "id": "S002", "name": "Jane Smith", "age": 22 },
+        { "id": "S003", "name": "Emily Johnson", "age": 20 },
+        { "id": "S004", "name": "Michael Brown", "age": 23 },
+        { "id": "S005", "name": "Sarah Davis", "age": 22 },
+        { "id": "S006", "name": "David Wilson", "age": 24 },
+        { "id": "S007", "name": "Laura Miller", "age": 21 },
+        { "id": "S008", "name": "Chris Taylor", "age": 22 }
+    ]
+}
